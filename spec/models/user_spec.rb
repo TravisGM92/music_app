@@ -7,7 +7,7 @@ RSpec.describe User, type: :model do
     it { should have_many :addresses }
   end
   describe 'test it' do
-    it 'works' do
+    it 'work' do
 
     end
   end
